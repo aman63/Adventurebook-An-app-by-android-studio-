@@ -13,4 +13,4 @@ attention .There is a little search engine behavior in the app .Let's suppose a 
 see the diaries of newzealand .If the next time ,that same user enters the app ,he will see the diaries of newzealand without asking for 
 it .So it saves the users' search history .If a user click on any photo ,he will see immediately in map where that photo was taken .There
 are also many other amazing facilities like travel cost calculation ,nearby attraction finder etc .I used firebase database in the project.
-The apk version is also given in the repository .I request to see the video demonstration file to see the amazing features of this app .
+The apk version is also given in the repository .
